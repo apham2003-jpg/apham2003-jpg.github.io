@@ -1,29 +1,29 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
+  "Name": "Anh Pham ",
+  "Currently": "Mechanical Engineering Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Anh and I’m currently a mechanical engineering student at SPU, and I’m interested in CAD modeling work and Mechanical Construction work, and throughout my education I have gained a lot of experiences with Soildworks and different other analysis programs, like Tracker, Excel, and have a grasp on the MATLAB language. So I am looking for a internship after college that will help me really honed the skills of communication with others for more future positions."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
+  "EMail": "phama12@spu.edu",
+  "Phone": "(206) 465-1842",
   "Portfolio": "https://www.github.com",
   "LinkedIn": "https://linkedin.com",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "Thanks to my college journey I was able to get where I am. Starting with smaller projects like a spaghetti bridge and eventually moving up to Junior Design and creating a linear belt driven rail, and a lead screw lift system. Currently I am working on a combination of a remote controlled rover combined with a mechanical robot arm, and the goal is to hold a construction sign in high traffic areas.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Major": "Mechanical Engineering",
+  "Graduation": "June 2026",
+  "EducationText": "With my Mechanical Engineer education I am hoping to use it to develop world changing technology",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Role": "Physics Learning Assistant, Linear Algebra Grader",
+  "EmploymentText": "These jobs are a good way for me to remind myself of past knowledge and to support students educationally",
+  "Skills": ["SoildWorks", "MATLAB", "Excel","Tracker"],
+  "SkillsText": "These skills were developed both in and out of classes and it showcase my creatitvity and data tracking skills",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
