@@ -28,14 +28,14 @@
 },
 "Project1": {
     "Title": "Getting Loaded",
-    "Desc": "This project is from junior design and it was a horizontal and vertical system that is design to support people with back and joint pain getting everyday items out of a trunk.",
+    "Desc": "This project is from junior design and it was a horizontal and vertical system that is design to support people with back and joint pain getting everyday items out of a trunk. The first image is the belt driven linear actuator using stepper motors to move the system back and forth. The second image is the vertical system using a lead screw to move the platform up and down. Finally the third image is for the platform itself using L-Brackets as the support to the lead screw.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["IMG_1817.jpeg","IMG_1820.jpeg","IMG_1824.jpeg"]
   },
   "Project2": {
     "Title": "MECS",
-    "Desc": "The Mobile construction sign is a 4DOF mechanical arm carrying sign that would periodically switch messages between stop and slow attached to a rover to control traffic and preserve the safety of workers.",
+    "Desc": "The Mobile construction sign is a 4DOF mechanical arm carrying sign that would periodically switch messages between stop and slow attached to a rover to control traffic and preserve the safety of workers. The first picture is the first prototype of the rover with the 2 DC motors on the inside power the 2 external wheels. The second image is the actual construction sign with LED displaying messages. Finally the last image is the first prototype for the 4DOF Mechanical Arm.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["Image.jpg","","Image rover.jpg","image sign.jpg"]
