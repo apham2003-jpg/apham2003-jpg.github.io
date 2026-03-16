@@ -35,9 +35,9 @@
   },
   "Project2": {
     "Title": "MECS",
-    "Desc": "The Mobile construction sign is a 4DOF mechanical arm carrying sign that would periodically switch messages between stop and slow attached to a rover to control traffic and preserve the safety of workers. The first picture is the three dimensional prototype of the arm and the second picture is CAD version of the full assembly. Finally the last picture is actual sign" 
+    "Desc": "The Mobile construction sign is a 4DOF mechanical arm carrying sign that would periodically switch messages between stop and slow attached to a rover to control traffic and preserve the safety of workers. The first picture is the three dimensional prototype of the arm and the second picture is CAD version of the full assembly. Finally the last picture is actual sign.", 
     "MainImage": "MECS PIC.png",
-    "DetailImages": ["Screenshot 3D printed prototype.png","Screenshot CAD arm.png","image sign.jpg"] 
+    "DetailImages": ["Screenshot 3D printed prototype .png","Screenshot CAD arm .png","image sign.jpg"] 
   },
   "Project3": {
     "Title": "",
